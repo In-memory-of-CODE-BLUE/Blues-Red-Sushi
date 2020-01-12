@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture"		"redsushi/redsushi_black_color"
+
+
+	$phong			1
+
+
+	"$surfaceprop" "Metal"
+	"$model" 1	
+
+}

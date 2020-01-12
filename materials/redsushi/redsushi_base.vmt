@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture"		"redsushi/redsushi_base_color"
+
+
+	$phong			1
+
+	
+	"$bumpmap"		"redsushi/redsushi_base_normal_spec"
+	//"$normalmapalphaenvmapmask" 1
+
+	"$surfaceprop" "Metal"
+	"$model" 1	
+
+}

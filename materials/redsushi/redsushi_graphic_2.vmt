@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+
+	"$baseTexture"		"redsushi/redsushi_graphic_2_color"
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1.2"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	
+
+	$phong			1
+
+$selfillum 1
+
+	"$surfaceprop" "Metal"
+	"$model" 1	
+
+}

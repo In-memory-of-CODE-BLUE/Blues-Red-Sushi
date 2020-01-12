@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+
+	"$baseTexture"		"redsushi/redsushi_reel_blur_color"
+
+	
+
+	$phong			1
+
+$selfillum 1
+
+	"$surfaceprop" "Metal"
+	"$model" 1	
+
+}

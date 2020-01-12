@@ -1,0 +1,29 @@
+"UnlitGeneric"
+{
+
+	"$basetexture"		"redsushi/redsushi_lightring_color"
+
+	$selfillum 1
+
+	"$surfaceprop" "Metal"
+	"$model" 1	
+
+	$pulse 0
+
+	Proxies // proxies are listed inside this block
+	{
+		TextureScroll{
+			textureScrollVar $basetexturetransform
+			textureScrollRate 0.05
+			textureScrollAngle 90
+		}
+		//Sine{
+			//sineperiod  1.5
+			//sinemin 0.		
+			//sinemax 1
+			//resultVar $pulse 
+
+		//}
+	}
+
+}

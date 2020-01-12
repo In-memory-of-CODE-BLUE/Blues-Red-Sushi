@@ -1,0 +1,20 @@
+"UnlitGeneric"
+{
+
+	"$baseTexture"		"redsushi/redsushi_buttons_color"
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1.2"
+	"$envmaptint" "[0.35 0.45 0.45]"
+	
+
+	$phong			1
+
+	
+	"$bumpmap"		"redsushi/redsushi_buttons_normal_spec"
+	"$normalmapalphaenvmapmask" 1
+
+	"$surfaceprop" "Metal"
+	"$model" 1	
+
+}

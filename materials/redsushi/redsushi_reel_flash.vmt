@@ -1,0 +1,28 @@
+"UnlitGeneric"
+{
+
+	"$baseTexture"		"redsushi/redsushi_reel_color"
+
+	
+
+	$phong			1
+
+$selfillum 1
+
+	"$surfaceprop" "Metal"
+	"$model" 1	
+
+
+	Proxies // proxies are listed inside this block
+	{
+
+		Sine{
+			sineperiod  0.25
+			sinemin 0.6	
+			sinemax 1
+			resultVar $color2 
+
+		}
+	} 
+
+}

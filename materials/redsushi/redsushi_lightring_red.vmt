@@ -1,0 +1,24 @@
+"UnlitGeneric"
+{
+
+	"$basetexture"		"redsushi/redsushi_lightring_red"
+
+	$selfillum 1
+
+	"$surfaceprop" "Metal"
+	"$model" 1	
+	//"$color2" [1 1 1]
+
+	$angle 24
+
+	Proxies // proxies are listed inside this block
+	{
+
+
+		TextureScroll{
+			textureScrollVar $basetexturetransform
+			textureScrollRate 0.6
+			textureScrollAngle 180
+		}
+	} 
+}

@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+
+	"$baseTexture"		"redsushi/redsushi_graphics_3_color"
+
+
+                  $color2 "[3 0.4 0.4]"
+
+	$phong			1
+
+$selfillum 1
+
+	"$surfaceprop" "Metal"
+	"$model" 1	
+
+}

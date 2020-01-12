@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture"		"redsushi/redushi_glass_color"
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "0.4"
+	"$envmaptint" "[0.75 0.75 0.75]"
+	
+$translucent 1
+//$alpha 1
+$alpatest 1
+	$phong			1
+         
+
+	"$surfaceprop" "Metal"
+	"$model" 1	
+
+}
